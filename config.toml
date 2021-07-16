@@ -1,33 +1,33 @@
 ######################## default configuration ####################
-baseURL = "https://store.minorbasilicaofstanne.com"
+baseURL = "/"
 languageCode = "en"
 title = "St Anne's Religious Articles Centre | Minor Basilica of St Anne, Bukit Mertajam"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
 disqusShortname = "minorbasilicaofstanne"
-favicon = "images/favicon.png"
+favicon = "/images/favicon.png"
 
 ############################# Plugins ##############################
 [params.plugins]
 
   # CSS Plugins
   [[params.plugins.css]]
-  link = "plugins/bootstrap/bootstrap.min.css"
+  link = "/plugins/bootstrap/bootstrap.min.css"
   [[params.plugins.css]]
-  link = "plugins/slick/slick.css"
+  link = "/plugins/slick/slick.css"
   [[params.plugins.css]]
-  link = "plugins/themify-icons/themify-icons.css"
+  link = "/plugins/themify-icons/themify-icons.css"
 
   # JS Plugins
   [[params.plugins.js]]
-  link = "plugins/jQuery/jquery.min.js"
+  link = "/plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
-  link = "plugins/bootstrap/bootstrap.min.js"
+  link = "/plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
-  link = "plugins/slick/slick.min.js"
+  link = "/plugins/slick/slick.min.js"
   [[params.plugins.js]]
-  link = "plugins/google-map/gmap.js"
+  link = "/plugins/google-map/gmap.js"
 
 
 ############################## navigation ###############################
@@ -92,7 +92,7 @@ favicon = "images/favicon.png"
 
 #################### default parameters ################################
 [params]
-logo = "images/store-logo.png"
+logo = "/images/store-logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
