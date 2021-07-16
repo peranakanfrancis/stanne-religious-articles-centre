@@ -1,0 +1,26 @@
+############################# contact info ################
+contact:
+  enable : true
+  # office
+  office:
+    title : "St Anne's Religious Articles Centre"
+    content : "The Religious Articles Centre at Minor Basilica of St Anne Bukit Mertajam is first and foremost a ministry of the Church.
+
+Our thoughtfully curated collection of devotional items is tailored to foster the faith of every modern Catholic. With everything from statues and crucifixes to hand-crafted art and jewellery made right here in Malaysia, we have something special we know you'll love."
+    # other information comes from "config.toml"
+
+  # opennig hour
+  opennigHour:
+    title : "Opening Hours"
+    dayTimeList:
+      - dayTime : "Monday: 9:30 – 17:30"
+      - dayTime : "Tuesday: 9:30 – 17:30"
+      - dayTime : "Wednesday: 9:30 – 17:30"
+      - dayTime : "Thursday: 9:30 – 17:30"
+      - dayTime : "Friday: 9:30 – 17:30"
+      - dayTime : "Saturday: 9:30 – 17:30"
+      - dayTime : "Sunday: 9:00 – 17:00"
+
+####################### google map ########################
+map:
+  enable: true

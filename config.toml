@@ -1,0 +1,156 @@
+######################## default configuration ####################
+baseURL = "https://store.minorbasilicaofstanne.com"
+languageCode = "en"
+title = "St Anne's Religious Articles Centre | Minor Basilica of St Anne, Bukit Mertajam"
+theme = "hargo"
+summaryLength = "20"
+paginate = 10
+disqusShortname = "minorbasilicaofstanne"
+favicon = "images/favicon.png"
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  link = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  link = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  link = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  link = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  link = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  link = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  link = "plugins/google-map/gmap.js"
+
+
+############################## navigation ###############################
+[menu]
+
+  [[menu.main]]
+  name = "Catalog"
+  URL = "products"
+  weight = 1
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+
+  [[menu.main]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 3
+
+#  [[menu.main]]
+#  name = "Contact"
+#  URL = "contact"
+#  weight = 4
+
+  ############# footer menu #############
+  [[menu.footer]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 1
+
+  [[menu.footer]]
+  name = "How to Shop"
+  URL = "how-to-shop"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Shipping & Return"
+  URL = "shipping-and-return"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Terms of Use"
+  URL = "terms-of-use"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Privacy Policy"
+  URL = "privacy-policy"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Contact Us"
+  URL = "contact"
+  weight = 6
+
+  [[menu.footer]]
+  name = "Minor Basilica of St Anne Bukit Mertajam"
+  URL = "https://www.minorbasilicastannebm.com"
+  weight = 7
+
+
+#################### default parameters ################################
+[params]
+logo = "images/store-logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "St Anne's The Religious Articles Centre"
+# google map
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+mapLatitude = "51.5223477"
+mapLongitude = "-0.1622023"
+mapMarker = "images/marker.png"
+# Google Analitycs
+googleAnalitycsID = "" # Your ID
+# Contact Information
+phone = "+6045300425"
+whatsapp = "+60125874666"
+walink = "https://wa.link/hs48m2"
+email = "saintannerac@gmail.com"
+location = "Jalan Kulim, 14000 Bukit Mertajam"
+# copyright
+copyright = "Copyright &copy; 2021 St Anne's Religious Articles Centre | [Minor Basilica of St Anne, Bukit Mertajam](https://www.minorbasilicastannebm.com) All Rights Reserved"
+# Snipcart Credentials
+snipcartApiKey = "OGJkYzJjYjktMmRlMy00ZmRjLTlhYjktZjExZjdjYjYzZTRiNjM3NjE2NTQ2Nzc1NzU1NjAz"
+currencySymbol = "RM"
+weightType = "gram"
+dimensionType = "cm"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # Product Rating
+  # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
+  [params.rating]
+  enable = true
+  websiteID = "477453"
+  publicKey = "e390120397e2bbd77fa453a51fcee2e7"
+
+  # Social Site
+  [[params.social]]
+  icon = "ti-facebook"
+  link = "https://www.facebook.com/BasilicaofStAnneBM/"
+
+  [[params.social]]
+  icon = "ti-instagram"
+  link = "https://www.instagram.com/BasilicaofStAnneBM/"
+
+  [[params.social]]
+  icon = "ti-youtube"
+  link = "https://www.youtube.com/c/BasilicaofStAnneBM"
+
+  [[params.social]]
+  icon = "ti-google"
+  link = "https://goo.gl/maps/gh719KDrNGdQ2Spd8"
+
+  [[params.social]]
+  icon = "ti-world"
+  link = "https://www.minorbasilicastannebm.com"
+
+  # Contact Form
+  [params.contact]
+  formAction = "https://formspree.io/f/mvodbqlj" # contact form works with formspree.io

@@ -1,0 +1,185 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Grandmother of Hope"
+  content : "Saint Anne is the mother of Mary, the woman who gave birth to Jesus by Virgin Birth. The Angel Gabriel came to Mary and told her that she would give birth to the Son of God. Saint Anne had promised that she would give her child to the service of God, and she kept her holy vow. When Mary was three years old, her parents brought her to the Temple and gave her to the service of the Temple. They did not see her again.
+
+  Although she had wanted a child so badly, Saint Anne knew that she had to honor her promise to the Lord. Saint Anne and Joachim would not be able to raise the child since Mary needed to be raised in order to become the mother of Jesus Christ."
+  image : "images/IMG_0133-removebg-preview.png"
+  # button
+  button:
+    enable : true
+    label : "See Our Catalog"
+    link : "products"
+  # demo video
+  video:
+    enable : true
+    videoURL : "https://www.youtube.com/embed/mQxBmD13isU"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "About us"
+  content : "The Religious Articles Centre at Minor Basilica of St Anne Bukit Mertajam is first and foremost a ministry of the Church.
+
+  Our thoughtfully curated collection of devotional items is tailored to foster the faith of every modern Catholic. With everything from statues and crucifixes to hand-crafted art and jewellery made right here in Malaysia, we have something special we know you'll love."
+  image : "images/106013860_271766760942447_43111525963854.webp"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Why Buy From Us?"
+  content : "St Anne's Religious Articles Centre is affiliated with the Diocese of Penang, 100% of the profit is going to the church. Our products can change lives, save souls, heal marriages, protect friendships, and help each of us grow closer to the Lord."
+  image : "images/IMG_0659-removebg-preview.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "All Items"
+    link : "products"
+
+######################## raw material #######################
+features:
+  enable : true
+  title : "Why You Should Have a Devotion to Saint Anne"
+  subtitle : "Saint Anne is a powerful intercessor, combining the fortitude of age and the tender solicitude of motherhood and grandmotherhood. How sweet must she have been, the mother of our life, our sweetness and our hope, as we describe Mary, herself, in the beautiful ***Hail, Holy Queen***!"
+  featuresItem:
+    # feature item loop
+#    - title : "Marriage"
+#      image : "images/wedding-couple.png"
+#      content : "If you are called to marriage, invoke St. Anne’s intercession to find your future spouse and to fortify him or her in virtue, that you might be ready to see, to love, and to commit to each other. Ask her to protect and strengthen you in your vocation if it’s already decided."
+
+    # feature item loop
+#    - title : "Trying to conceive"
+#      image : "images/maternity.png"
+#      content : "If waiting in hope and fidelity to prayer can end in the world’s greatest gift to humanity – the Theotokos – then we who pray for the gift of a baby in our marriages can persevere in hope and beg her intercession."
+
+    # feature item loop
+#    - title : "Expectant mother"
+#      image : "images/woman.png"
+#      content : "According to tradition, Sts. Anne and Joachim prayed fervently for many years for the gift of a baby before the arrival of Mary, the Immaculate Conception. Like any loving grandmother, St. Anne is eager to pray for pregnant mothers, for safe pregnancies and deliveries."
+
+    # feature item loop
+#    - title : "Wife and grandmother"
+#      image : "images/mother.png"
+#      content : "As a wife or mother, you can turn to St. Anne, faithful spouse of St. Joachim, for help in carrying out your duties virtuously. For men as husbands and/or sons, ask St. Anne to help you love your wife or mother better. She is the wisest and kindest of intercessors after the Blessed Virgin Mary, and she desires to intercede for families in these days of great threats against the family."
+
+    # feature item loop
+#    - title : "Elderly"
+#      image : "images/old.png"
+#      content : "In an age when the elderly are often shunted out of sight, whether into distant nursing homes or – worse – euthanized for lack of “usefulness,” St. Anne reminds us of the wisdom, love, and being-vs-doing beauty of the gift of old age."
+
+    # feature item loop
+    - title : "Comfort for **Sad**"
+      image : "images/sad1.png"
+      content : "God always knows, always loves, and never abandons us. Whether in sadness, in loneliness, in regret, turn to St. Anne for comfort and company."
+
+    # feature item loop
+    - title : "Healing for **Sick**"
+      image : "images/sick.png"
+      content : "St. Anne has rescued many from imminent death; yes, through her intercession evil spirits have been expelled, the dead have, in several instances, been restored to life."
+
+    # feature item loop
+#    - title : "Orphan"
+#      image : "images/1278147.png"
+#      content : "God has an important job for you, even if it is not biological or adoptive parenthood. Ask St. Anne to help you to discern and desire that unique job for His greater glory."
+
+    # feature item loop
+    - title : "Protection for **Danger**"
+      image : "images/danger1.png"
+      content : "As traditional patroness of miners, St. Anne’s care for those particularly in dangerous lines of work is a natural association for us."
+
+    # feature item loop
+#    - title : "Protection"
+#      image : "images/protect.png"
+#      content : "In these fraught times, mothers and grandmothers naturally worry about the well-being of children. As with St. Monica, St. Anne is a wonderful go-between for the prayers to God on behalf of your children and grandchildren. From her special vantage point in heaven, she sees your worries and the dangers faced by young people, but she is firmly anchored in the peace and promises of God and Our Lady to take care of all the little ones."
+
+    # feature item loop
+#    - title : "Faith"
+#      image : "images/faith.png"
+#      content : "As the woman chosen by God to be the Mother of His Son, the Virgin Mary is known around the world as a good, holy, and exceptional woman. Certainly she must have had extraordinary parents whose example of faith and trust in the Lord impacted her in a way that would change the course of history forever!"
+
+    # feature item loop
+    - title : "Grow in **Patience**"
+      image : "images/patience.png"
+      content : "In a “culture of now,” St. Anne can help us to wait patiently. Ask her to teach us to grow in gentleness and patience, after her example."
+
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : '"All good giving and every perfect gift is from above..." - **James 1:17**"'
+  subtitle : "We like to offer our souvenirs at an affordable prices, these items reflect the blessing it is to live a life of faith, and remind us of the graces which God lavishly bestows on us every day. Add a touch of beauty to your home or find a gift for any occasion."
+  image : "images/IMG_0123.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Expected delivery of 3-14 business days from the date of shipment."
+    - listItem : "Items are carefully wrapped and packed by the staff"
+    - listItem : "We can to deliver to you anywhere in Malaysia."
+    - listItem : "We guarantee the quality and workmanship of every item."
+    - listItem : "We accept payments like Bank Transfer & Touch & Go e-wallet."
+    - listItem : "Friendly customer service assistance through phone and email."
+
+
+######################## Promo Video ##########################
+video:
+  enable : true
+  title : "Shrine of Harmony <br> - ***Saint Anne Pray for us***"
+  content : "Offering of prayer petition, garlands, flowers and candles can also be done virtually with the 24 hour live streaming inside the Shrine of St Anne.
+
+  We offer our heartfelt thanks and gratitude for all the pilgrims who have experienced the enriching presence of God through the intercession of Saint Anne and we pray that more will be touched as they make their pilgrimage to the Shrine of Harmony."
+  videoThumb : "images/video.jpg"
+  videoURL : "https://www.youtube.com/embed/mQxBmD13isU"
+
+
+######################## Products #############################
+products:
+  enable : true
+  title : "Featured Items"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "People Love Our Items"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Erwyn"
+      image : "images/clients/client-1.jpg" # size 100px*100px
+      destination : "Kuching"
+      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating : "five" # rating star, one to five
+
+    # testimonial item loop
+    - name : "Desiree"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      destination : "Kuala Lumpur"
+      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating : "three" # rating star, one to five
+
+    # testimonial item loop
+    - name : "Juliana"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      destination : "Melaka"
+      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating : "four" # rating star, one to five
+
+    # testimonial item loop
+    - name : "Catharine"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      destination : "Perlis"
+      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating : "four" # rating star, one to five
+
+    # testimonial item loop
+    - name : "Jason"
+      image : "images/clients/client-3.jpg" # size 100px*100px
+      destination : "Johor"
+      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating : "five" # rating star, one to five
+
+    # testimonial item loop
+    - name : "Jennifer"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      destination : "CEO, Dialogue Broad Band"
+      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating : "four" # rating star, one to five
